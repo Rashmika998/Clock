@@ -1,0 +1,14 @@
+Has 3 options.
+1. Time format chnagine option. (Toggling the top corner button)
+2. Time ediitng option
+   This option works once the first chekbox is checked. All the other options will be disbaled once the checkbox is clicked (Including Refresh button). 
+   Set the new time and click 'Set Time' button to update the time. (Here time will be shown in both 12 and 24 hour format in the main display area(24 hour) and ediitng area(12 hour).
+   Time will be updated in both places. (Check after 1min)
+   To enable other options uncheck the time editing option.  
+3. Time zone selecting option
+   This works once the second checkbox is checked. Time ediitng and Refresh button will be disabled once this is checked.
+   Select a time zone and see the results.
+   Can change the time format from the toggle button as mentioned above.
+   To enable the disabled options, uncheck the time zone selecting option. 
+
+If Refresh button is enabled once it is clicked, the current time will be shown.
